@@ -1,0 +1,17 @@
+s= set()   #write a programm to input 8 numbers and display the unique numbers entered by user means set ki baat krr rha
+
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+n1= input("Enter a number 2 : ")
+s.add(int(n1))
+print(s)
